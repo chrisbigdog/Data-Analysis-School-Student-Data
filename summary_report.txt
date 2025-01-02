@@ -1,0 +1,21 @@
+Total Entries:
+35
+
+Gender Distribution:
+{'Female': 18, 'Male': 17}
+
+Year Level Distribution:
+{'Year 4': 10, 'Year 6': 10, 'Year 2': 4, 'Year 3': 4, 'Year 5': 4, 'Year 1': 3}
+
+Priority of Support Breakdown:
+{'Non-urgent': 16, 'Semi-urgent': 12, 'Urgent': 7}
+
+Area of Need Breakdown:
+{'1. Cognition and Learning (CL)': 13, '5. Physical': 11, 'Emotional and Behavioural (SEB)': 8, 'Language and Communication (SLC)': 2, '3. Speech': 1}
+
+Attendance Distribution:
+{'Regular attendance 90%-100%': 23, 'Semi-regular attendance 80-90%': 6, 'Chronically absent <70%': 3, 'Moderately absent 70%-80%': 2, 'Not Provided': 1}
+
+Anomaly Count (Urgent Support + Regular Attendance):
+4
+
